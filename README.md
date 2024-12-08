@@ -6,7 +6,6 @@
         <li>Control Structures</li>
         <li>Functions</li>
         <li>Arrays</li>
-        <li>Object-Oriented Programming</li>
     </ul>
     <p>Each lab is structured to demonstrate practical examples and hands-on exercises in these areas.</p>
     <h2>Repository Structure</h2>
