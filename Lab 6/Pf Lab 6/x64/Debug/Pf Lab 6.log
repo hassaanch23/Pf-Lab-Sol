@@ -1,0 +1,5 @@
+﻿  Task3.cpp
+  Task4.cpp
+C:\Users\FIREFLY LAPTOP'S\source\repos\Pf Lab 6\Pf Lab 6\Task4.cpp(17,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Pf Lab 6.vcxproj -> C:\Users\FIREFLY LAPTOP'S\source\repos\Pf Lab 6\x64\Debug\Pf Lab 6.exe
